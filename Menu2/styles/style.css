@@ -1,0 +1,17 @@
+li{
+    display: inline;
+    padding: 10px 20px;
+    
+}
+a{
+    text-decoration: none;
+}
+@media only screen and (max-width: 900px) {
+    li {       
+      display: block;
+      
+    }
+    div {
+        float: left;
+    }
+  }
